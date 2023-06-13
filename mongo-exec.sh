@@ -1,0 +1,1 @@
+mongoimport-everything.sh "mongodb://localhost/covid19"
